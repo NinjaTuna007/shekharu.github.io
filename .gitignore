@@ -10,4 +10,7 @@ Gemfile.lock
 
 # Ingore files created by npm
 node_modules
-package-lock.json
+package-lock.
+
+# ignore all files inside the vendor directory
+vendor/
